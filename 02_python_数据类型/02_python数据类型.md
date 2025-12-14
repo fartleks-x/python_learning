@@ -1,34 +1,30 @@
-### 给初学者的几个建议：
+Python3 的六个标准数据类型中：
 
-- **Make English as your working language.** （让英语成为你的工作语言）
-- **Practice makes perfect.** （熟能生巧）
-- **All experience comes from the mistakes you've made.** （所有的经验都源于你犯过的错误）
-- **Don't be a freeloader.** （不要当伸手党）
-- **Either outstanding or out.** （要么出众，要么出局）
+不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；  
+可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
 
-### Python Learning
+### 一、Number（数字）
+#### 1.int
+在Python 3里，只有一种整数类型 int，表示为长整型，没有 python2 中的 Long。
 
-#### 1.python基本语法
+#### 2.float
 
-1. Python简介
-    - Python编年史
-    - Python优缺点
-    - Python应用领域
-2. 安装Python环境
-    - Windows环境
+#### 3.bool
 
-#### 2.python数据类型
+#### 4.complex
 
-#### 3.python语句
+### 二、String（字符串）
 
-#### 4.python函数
+### 三、bool（布尔类型）
 
-#### 5.python面向对象
+### 四、List（列表）
 
-#### 6.python错误与异常
+### 五、Tuple（元组）
 
-#### 7.python包与模块
+### 六、Set（集合）
 
-#### 8.python标准库
+### 七、Dictionary（字典）
+
+
 
 
